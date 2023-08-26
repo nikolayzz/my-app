@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  /* background-color: #3766a5; */
+}
+
+nav {
+  background-color: lightblue;
+}
+
+nav a {
+  margin: 10px;
+}
+
+.Home ul li {
+}
